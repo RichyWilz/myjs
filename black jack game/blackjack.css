@@ -1,0 +1,16 @@
+
+body{
+    text-align: center;
+    background-color: green;
+    color:white;
+}
+h1{
+    color:goldenrod;
+}
+button{
+    width:120px;
+    height:30px;
+    background-color: goldenrod;
+    color:green;
+    border: 0px;
+}

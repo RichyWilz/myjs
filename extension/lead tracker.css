@@ -1,0 +1,34 @@
+body{
+    min-width: 300px;
+}
+
+button{
+    border-color:green;
+    color:white;
+    background:green;
+    height:25px;
+}
+
+
+.white{
+    border-color: green;
+    background:white;
+    color:green;
+    height:25px;
+}
+input{
+    width:240px;
+    margin-bottom: 5px;
+    height:20px;
+    border-width: 2px;
+
+}
+ul{
+    list-style: none;
+    margin-left: -35px;
+}
+/* if anchor tag is in list */
+li a{
+    font-size: 20px;
+    color: green;
+}
